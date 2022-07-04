@@ -2,7 +2,6 @@
 /* eslint-disable max-classes-per-file */
 
 import Book from './modules/Book.js';
-
 import BooksCollection from './modules/Books_collection.js';
 import DynamicHtml from './modules/DynamicHtml.js';
 import nav from './modules/Nav_Menu.js';
